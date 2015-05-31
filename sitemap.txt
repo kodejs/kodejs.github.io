@@ -1,11 +1,11 @@
 
-http://username.github.io/archive.html
-http://username.github.io/atom.xml
-http://username.github.io/categories.html
-http://username.github.io/index.html
-http://username.github.io/pages.html
-http://username.github.io/rss.xml
-http://username.github.io/sitemap.txt
-http://username.github.io/tags.html
+http://kodejs.github.io/archive.html
+http://kodejs.github.io/atom.xml
+http://kodejs.github.io/categories.html
+http://kodejs.github.io/index.html
+http://kodejs.github.io/pages.html
+http://kodejs.github.io/rss.xml
+http://kodejs.github.io/sitemap.txt
+http://kodejs.github.io/tags.html
 
-http://username.github.io/lessons/2011/12/29/jekyll-introduction
+http://kodejs.github.io/lessons/2011/12/29/jekyll-introduction
