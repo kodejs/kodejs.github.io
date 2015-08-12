@@ -16,12 +16,31 @@
 		    <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo">Prototype Digital Wayfinding</a>
 		    </div>
 		  </nav>
+		<div id="controls">
+		<div class="input-field">
+				    <select id="beginSelect">
+					<option value="lcd.1">Reception</option>
+					<option value="lobby">Lobby</option>
+					<option value="R123">Conf Room</option>
+					<option disabled="true">West 1st</option>
+					<option value="R101">101</option>
+					<option value="R102">102</option>
+					<option value="R103">103</option>
+					<option value="R104">104</option>
+				</select>
+				    <label>Begin Route at</label>
+				  </div>
+		</div>
+
+		<br/>
+		<br/>
 		<div id="content">
 			<div id="controls">
 				<label>Maps</label>
 				<button id="floor1">1st Floor</button>
 				<button id="floor2">2nd Floor</button>
 				<label for="beginSelect">Begin Route at</label>
+
 				<select id="beginSelect">
 					<option value="lcd.1">Reception</option>
 					<option value="lobby">Lobby</option>
